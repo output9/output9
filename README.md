@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=17&duration=2600&pause=900&color=D7FF5F&center=true&vCenter=true&width=900&lines=Agentic+AI+%E2%80%A2+RAG+%E2%80%A2+Speech+%E2%80%A2+Multimodal+Systems;Research+%E2%86%92+Architecture+%E2%86%92+Evaluation+%E2%86%92+Product;Open+to+ambitious+global+AI+teams" alt="Animated positioning"/>
+  <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=17&duration=2600&pause=900&color=D7FF5F&center=true&vCenter=true&width=900&lines=Agentic+AI+%7C+RAG+%7C+Speech+%7C+Multimodal+Systems;Research+to+Architecture+to+Evaluation+to+Product;Open+to+ambitious+global+AI+teams" alt="Animated positioning"/>
 </p>
 
 ## What I build
@@ -62,44 +62,44 @@ Backend APIs, data flow, orchestration and the work required to move AI from an 
 <tr>
 <td width="50%" valign="top">
 
-### ðŸ§  [Award Winning GenAI Platform](https://github.com/output9/soft-engg-project-jan-2025-se-Jan-1)
+### [Award Winning GenAI Platform](https://github.com/output9/soft-engg-project-jan-2025-se-Jan-1)
 
 Eight GenAI modules inside one academic software product.
 
 **Role:** AI Engineer on a seven member IIT Madras team  
 **Recognition:** Best Software Engineering Project Award  
-**Core:** RAG â€¢ Gemini â€¢ LangChain â€¢ ChromaDB â€¢ Flask â€¢ SQLAlchemy
+**Core:** RAG | Gemini | LangChain | ChromaDB | Flask | SQLAlchemy
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸŽ™ï¸ [Uyghur Automatic Speech Recognition](https://github.com/output9/the-uyghur-voice-cup)
+### [Uyghur Automatic Speech Recognition](https://github.com/output9/the-uyghur-voice-cup)
 
 Low resource ASR with multilingual speech representations, custom CTC vocabulary, mixed precision training and decoding experiments.
 
-**Core:** Wav2Vec2 â€¢ XLSR â€¢ CTC â€¢ KenLM â€¢ PyTorch â€¢ Hugging Face
+**Core:** Wav2Vec2 | XLSR | CTC | KenLM | PyTorch | Hugging Face
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### ðŸ–¼ï¸ [Low Light 4Ã— Super Resolution](https://github.com/output9/denoising-4x-super-resolution-low-light-images)
+### [Low Light 4x Super Resolution](https://github.com/output9/denoising-4x-super-resolution-low-light-images)
 
 Image restoration with compact EDSR, augmentation, EMA, SWA, tiled inference and checkpoint ensembling.
 
 **Validation:** 38.7034 dB Y PSNR  
-**Core:** PyTorch â€¢ EDSR â€¢ OpenCV â€¢ Albumentations
+**Core:** PyTorch | EDSR | OpenCV | Albumentations
 
 </td>
 <td width="50%" valign="top">
 
-### ðŸ§­ [Low Light Depth Estimation](https://github.com/output9/low-light-depth-estimation)
+### [Low Light Depth Estimation](https://github.com/output9/low-light-depth-estimation)
 
 Dense monocular depth prediction for difficult low light imagery using transfer learning and supervised regression.
 
-**Validation RMSE:** 0.0974 â†’ 0.0730  
-**Core:** EfficientNet â€¢ U Net â€¢ PyTorch â€¢ Albumentations
+**Validation RMSE:** 0.0974 to 0.0730  
+**Core:** EfficientNet | U Net | PyTorch | Albumentations
 
 </td>
 </tr>
@@ -135,9 +135,9 @@ Dense monocular depth prediction for difficult low light imagery using transfer 
 My technical core is Applied AI. I also bring commercial operating context from building and marketing owned digital products, which gives me another lens on users, adoption, feedback loops and measurable outcomes.
 
 <p>
-  <a href="https://siddharthumathe.com/work"><b>Growth work â†—</b></a>
-  &nbsp;&nbsp;â€¢&nbsp;&nbsp;
-  <a href="https://siddharthumathe.com/strategic-foresight/"><b>Strategic foresight â†—</b></a>
+  <a href="https://siddharthumathe.com/work"><b>Growth work</b></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://siddharthumathe.com/strategic-foresight/"><b>Strategic foresight</b></a>
 </p>
 
 ## Current direction
@@ -147,6 +147,6 @@ I am especially interested in lean AI teams working on agents, RAG, multimodal s
 <p align="center">
   <b>Building something difficult with AI?</b><br/>
   <a href="mailto:22f2001536@ds.study.iitm.ac.in">22f2001536@ds.study.iitm.ac.in</a>
-  &nbsp;&nbsp;â€¢&nbsp;&nbsp;
+  &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://siddharthumathe.com">siddharthumathe.com</a>
 </p>
