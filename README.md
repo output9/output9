@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://siddharthumathe.com"><img src="https://img.shields.io/badge/Portfolio-0C0E11?style=for-the-badge&logo=googlechrome&logoColor=D7FF5F" alt="Portfolio"/></a>
   <a href="https://github.com/output9"><img src="https://img.shields.io/badge/GitHub-0C0E11?style=for-the-badge&logo=github&logoColor=D7FF5F" alt="GitHub"/></a>
-  <a href="https://tinyurl.com/Siddharth-Umathe-Linkedin"><img src="https://img.shields.io/badge/LinkedIn-0C0E11?style=for-the-badge&logo=linkedin&logoColor=D7FF5F" alt="LinkedIn"/></a>
+  <a href="https://tinyurl.com/Siddharth-Umathe-Linkedin"><img src="./assets/linkedin.svg" alt="LinkedIn"/></a>
   <a href="mailto:22f2001536@ds.study.iitm.ac.in"><img src="https://img.shields.io/badge/Email-0C0E11?style=for-the-badge&logo=gmail&logoColor=D7FF5F" alt="Email"/></a>
 </p>
 
