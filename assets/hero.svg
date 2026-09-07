@@ -25,10 +25,10 @@
     <animateMotion dur="6s" repeatCount="indefinite"><mpath href="#orbit"/></animateMotion>
   </circle>
   <g font-family="Inter, Arial, sans-serif">
-    <text x="70" y="76" fill="#9aa3ad" font-size="20" letter-spacing="4">APPLIED AI ENGINEER  •  IIT MADRAS</text>
+    <text x="70" y="76" fill="#9aa3ad" font-size="20" letter-spacing="4">APPLIED AI ENGINEER  |  IIT MADRAS</text>
     <text x="70" y="155" fill="#f4f6f8" font-size="64" font-weight="700" letter-spacing="-2">SIDDHARTH UMATHE</text>
     <text x="70" y="205" fill="#d7ff5f" font-size="27" font-weight="600">I build AI systems that research, reason, retrieve, evaluate and ship.</text>
-    <text x="70" y="265" fill="#9aa3ad" font-size="18">Agents  •  RAG  •  Speech  •  Multimodal AI  •  Computer Vision</text>
+    <text x="70" y="265" fill="#9aa3ad" font-size="18">Agents  |  RAG  |  Speech  |  Multimodal AI  |  Computer Vision</text>
   </g>
   <rect x="0" y="0" width="0" height="4" fill="#d7ff5f">
     <animate attributeName="width" values="0;1200;1200;0" keyTimes="0;0.55;0.85;1" dur="7s" repeatCount="indefinite"/>
