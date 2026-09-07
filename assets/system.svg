@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="210" viewBox="0 0 1200 210" role="img" aria-label="Applied AI engineering loop">
+  <rect width="1200" height="210" rx="18" fill="#0c0e11"/>
+  <g font-family="Inter, Arial, sans-serif">
+    <text x="50" y="42" fill="#9aa3ad" font-size="15" letter-spacing="3">SYSTEMS FIRST</text>
+    <g font-size="17" font-weight="600" text-anchor="middle">
+      <g><rect x="50" y="82" width="150" height="58" rx="10" fill="#111419" stroke="#343a42"/><text x="125" y="117" fill="#f4f6f8">Problem</text></g>
+      <g><rect x="250" y="82" width="150" height="58" rx="10" fill="#111419" stroke="#343a42"/><text x="325" y="117" fill="#f4f6f8">Context</text></g>
+      <g><rect x="450" y="82" width="150" height="58" rx="10" fill="#111419" stroke="#343a42"/><text x="525" y="117" fill="#f4f6f8">Retrieval</text></g>
+      <g><rect x="650" y="82" width="150" height="58" rx="10" fill="#111419" stroke="#343a42"/><text x="725" y="117" fill="#f4f6f8">Reasoning</text></g>
+      <g><rect x="850" y="82" width="150" height="58" rx="10" fill="#111419" stroke="#343a42"/><text x="925" y="117" fill="#f4f6f8">Evaluation</text></g>
+      <g><rect x="1050" y="82" width="100" height="58" rx="10" fill="#d7ff5f"/><text x="1100" y="117" fill="#11140d">Ship</text></g>
+    </g>
+    <g stroke="#d7ff5f" stroke-width="2" opacity=".75">
+      <line x1="200" y1="111" x2="250" y2="111"/><line x1="400" y1="111" x2="450" y2="111"/><line x1="600" y1="111" x2="650" y2="111"/><line x1="800" y1="111" x2="850" y2="111"/><line x1="1000" y1="111" x2="1050" y2="111"/>
+    </g>
+    <circle cx="200" cy="111" r="4" fill="#d7ff5f"><animate attributeName="cx" values="200;1050" dur="3.8s" repeatCount="indefinite"/></circle>
+    <text x="50" y="176" fill="#6e7781" font-size="15">Ground the system. Make failure visible. Evaluate the workflow. Connect it to a real product.</text>
+  </g>
+</svg>
