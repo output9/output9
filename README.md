@@ -10,11 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=output9&label=Profile%20views&color=D7FF5F&style=flat-square" alt="Profile views"/>
-  <a href="https://github.com/output9?tab=followers"><img src="https://img.shields.io/github/followers/output9?label=Followers&style=flat-square&color=D7FF5F&labelColor=0C0E11" alt="Followers"/></a>
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=DM+Mono&size=17&duration=2600&pause=900&color=D7FF5F&center=true&vCenter=true&width=900&lines=Agentic+AI+%7C+RAG+%7C+Speech+%7C+Multimodal+Systems;Research+to+Architecture+to+Evaluation+to+Product;Open+to+ambitious+global+AI+teams" alt="Animated positioning"/>
 </p>
 
